@@ -1,9 +1,3 @@
-### Hello, There
-
-- 🔭 Hoje trabalho com Front-End
-- 🌱 Estudando Javascript
--->
-
 <div align="center">
   <a href="https://github.com/DigitalGabe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=digitalgabe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
